@@ -6,7 +6,7 @@ Useful web3 services & tools
 - TOP Dapps, Chains & NFTs: https://dappradar.com/
 - ...
 
-## Chain indexing and on-chain tracking
+## Chain indexing and activity tracking
 - Contracts activity (emitting shadow events): https://www.shadow.xyz/
 - Chain indexing: https://github.com/0xPolygon/chain-indexer-framework
 - ...
